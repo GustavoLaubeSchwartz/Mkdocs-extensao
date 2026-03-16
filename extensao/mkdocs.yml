@@ -1,8 +1,8 @@
 site_name: Extensao
 site_url: https://gustavolaubeschwartz.github.io/Mkdocs-extensao/
 nav:
-  - Aula 09-03-2026: docs/aula-09-03-2026.md
-  - Aula 16-03-2026: docs/aula-16-03-2026.md
+  - Aula 09/03/2026: aula-09-03-2026.md
+  - Aula 16/03/2026: aula-16-03-2026.md
 theme:
   name: material
   font:
