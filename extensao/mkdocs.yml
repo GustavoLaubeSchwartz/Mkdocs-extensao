@@ -1,5 +1,8 @@
 site_name: Extensao
 site_url: https://gustavolaubeschwartz.github.io/Mkdocs-extensao/
+nav:
+  - Aula 09-03-2026: index.md
+  - Aula 16-03-2026: aula-16-03-2026.md
 theme:
   name: material
   font:
@@ -10,21 +13,21 @@ theme:
   features:
     - navigation.footer
   palette:
-    # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: green
-      accent: deep purple
-
-    # Light Mode
+    # Modern salmon + blue (light mode)
     - scheme: default
       toggle:
         icon: material/weather-night
+        name: Dark mode
+      primary: "#ff6f61"
+      accent: "#2196f3"
+
+    # Modern salmon + blue (dark mode)
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
         name: Light mode
-      primary: blue
-      accent: deep orange
+      primary: "#ff8a80"
+      accent: "#82b1ff"
 
 markdown_extensions:
   - attr_list
