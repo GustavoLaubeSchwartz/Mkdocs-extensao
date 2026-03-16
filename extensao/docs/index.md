@@ -1,11 +1,19 @@
-# Aula 09-03-2026
+# Selecionar aula
 
-### Esta documentação contém informações necessárias a cerca do projeto desenvolvidos nas aulas de Curso de Extensão: Desenvolvimento de Produto Baseado em Hipótese
+Escolha qual aula você quer visualizar. Cada botão leva direto para a página da aula correspondente.
+
+<div class="lesson-buttons">
+  <a href="index.md">Aula 09‑03‑2026</a>
+  <a href="aula-16-03-2026.md">Aula 16‑03‑2026</a>
+</div>
+
+---
+
+### Aula 09‑03‑2026
 
 ```python
-print("Olá peter")
+print("Olá Peter")
 ```
 
-I like to drink  :beers: after tuesday
 
-Voltar para a [Aula 16-03-2026](aula-16-03-2026.md).
+[Voltar ao topo](#selecionar-aula)

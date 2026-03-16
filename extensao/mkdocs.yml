@@ -13,6 +13,8 @@ theme:
   features:
     - navigation.footer
   palette:
+  extra_css:
+    - assets/stylesheets/custom.css
     # Modern salmon + blue (light mode)
     - scheme: default
       toggle:
