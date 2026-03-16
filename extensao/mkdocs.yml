@@ -1,13 +1,22 @@
 site_name: Extensao
 site_url: https://gustavolaubeschwartz.github.io/Mkdocs-extensao/
 nav:
-  - Aula 09-03-2026: index.md
-  - Aula 16-03-2026: aula-16-03-2026.md
+  - Aula 09-03-2026: docs/aula-09-03-2026.md
+  - Aula 16-03-2026: docs/aula-16-03-2026.md
 theme:
   name: material
   font:
     text: Merriweather Sans
     code: Red Hat Mono
+    title: Merriweather Sans
+    subtitle: Merriweather Sans
+    heading: Merriweather Sans
+    code: Red Hat Mono
+    code-block: Red Hat Mono
+    code-block-text: Red Hat Mono
+    code-block-text-small: Red Hat Mono
+    code-block-text-large: Red Hat Mono
+    code-block-text-x-large: Red Hat Mono
   logo: assets/logo.png
   favicon: assets/favicon.ico
   features:
