@@ -1,19 +1,15 @@
-# Selecionar aula
+# Aula 09-03-2026
 
-Escolha qual aula você quer visualizar. Cada botão leva direto para a página da aula correspondente.
+## Exercícios e conteúdo
 
-<div class="lesson-buttons">
-  <a href="index.md">Aula 09‑03‑2026</a>
-  <a href="aula-16-03-2026.md">Aula 16‑03‑2026</a>
-</div>
-
----
-
-### Aula 09‑03‑2026
+Aqui você encontra o material e os exercícios da aula do dia 09/03/2026.
 
 ```python
 print("Olá Peter")
 ```
 
+---
 
-[Voltar ao topo](#selecionar-aula)
+## Navegação
+
+- [Aula 16-03-2026](aula-16-03-2026.md)

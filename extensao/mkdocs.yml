@@ -13,23 +13,21 @@ theme:
   features:
     - navigation.footer
   palette:
-  extra_css:
-    - assets/stylesheets/custom.css
-    # Modern salmon + blue (light mode)
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Dark mode
-      primary: "#ff6f61"
-      accent: "#2196f3"
-
-    # Modern salmon + blue (dark mode)
+    # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
         name: Light mode
-      primary: "#ff8a80"
-      accent: "#82b1ff"
+      primary: blue
+      accent: deep orange
 
 markdown_extensions:
   - attr_list
